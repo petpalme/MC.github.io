@@ -1,0 +1,73 @@
+body {
+    background: url(earth.jpg);
+    
+}
+.table1{
+    align-items: center;
+}
+
+.table2 { 
+    
+    text-decoration-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button {
+    background-color: white;
+    border-color: rgb(243, 18, 18);
+    border-radius: 12px;
+    width: 100px;
+    height: 30px;
+}
+
+.table3 {
+    background-image: linear-gradient(white);
+    width: 70%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+h1{
+    text-align: center;
+    color: rgb(231, 55, 55);
+}
+h2 {
+    color: rgb(236, 28, 28);
+}
+p {
+    color: rgb(236, 42, 42);
+    font: bold;
+}
+.funwithbuttons {
+    width: 100px;
+    height: 40px;
+    background-color: chartreuse;
+    border-radius: 20px;
+    border-color: darkblue;
+}
+.gogreen {
+    width: 75px;
+    height: 75px;
+    background-color: rgb(16, 196, 46);
+    border-radius: 50px;
+    border-color: darkblue;
+}
+.stopred {
+    text-align: center;
+    width: 75px;
+    height: 75px;
+    background-color: rgb(230, 92, 92);
+    border-radius: 50px;
+    border-color: darkblue;
+}
+.soundbutton {
+    width: 75px;
+    height: 75px;
+    background-color: rgb(102, 92, 241);
+    border-radius: 50px;
+    border-color: darkblue;
+}
+tr {
+    color: rgb(241, 38, 38);
+}
